@@ -9,7 +9,8 @@
 #ifndef BDBengda_h
 #define BDBengda_h
 
-#import <BFKit/BFKit.h>
+//#import <BFKit/BFKit.h>
+
 #import "NSString+CustomSize.h"
 #import "NSMutableAttributedString+CustomSize.h"
 #import "NSString+Helpers.h"
